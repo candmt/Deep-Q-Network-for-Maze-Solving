@@ -1,4 +1,4 @@
-# Deep-Q-Network-for-Maze-Solving
+# Deep_Q_Network_for_Maze_Solving
 
 ## Reinforcement learning coursework for MSc AI at Imperial College London, academic year 2020-2021
 
